@@ -15,9 +15,9 @@
   "remote_version": "1.56.6",
   "remote_option_version": "optionallocres:156102|optionalclothres:156401|optionalpetres:156401",
   "cdn_url": "https://raw.githubusercontent.com/zeynsetiawan260/gameassets-/main/assets/",
-  "backup_cdn_url": "http://192.168.1.80:18080/cdn/",
+  "backup_cdn_url": "https://core.chronoprojects.com/cdn/",
   "abhotupdate_cdn_url": "https://raw.githubusercontent.com/zeynsetiawan260/gameassets-/main/assets/",
-  "server_url": "http://192.168.1.80:18080/login/",
+  "server_url": "https://core.chronoprojects.com/login/",
   "is_review_server": false,
   "appstore_url": "",
   "force_to_restart_app": false,
@@ -29,9 +29,9 @@
   "need_check_ip_list": [],
   "network_log_server": "",
   "login_failed_count": 0,
-  "test_url": "http://192.168.1.80:18080/healthz",
+  "test_url": "https://core.chronoprojects.com/healthz",
   "img_cdn_url": "https://dl.aw.freefiremobile.com/common/",
-  "core_url": "http://192.168.1.80:18080/core/",
+  "core_url": "https://core.chronoprojects.com/core/",
   "core_ip_list": [],
   "is_update_btn_show": false
 }
