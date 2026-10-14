@@ -151,9 +151,11 @@
     }
   ],
   "integration": {
-    "status": "source-assets-only",
-    "active_resource_version": "1.56.9",
-    "registered_in_runtime_manifest": false,
+    "status": "registered-in-resource-package",
+    "resource_package_version": "1.56.10",
+    "registered_in_runtime_manifest": true,
+    "atlas_bundle": "ui/atlas/hotfix/ui_chrono_gm_badges",
+    "client_download_verified": false,
     "client_1_56_1_gm_badge_activated": false,
     "apk_modified": false,
     "native_gm_role": 1,
