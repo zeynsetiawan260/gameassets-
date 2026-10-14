@@ -1,0 +1,162 @@
+{
+  "format": "Extracted transparent PNG source assets",
+  "source": {
+    "sha256": "65905a760b641a57a8228bfaf69e563ebd5ea3ff330b4d6c2deff645c25d6870",
+    "split": "split_asset_pack_install_time.apk",
+    "package": "com.dts.freefiremax",
+    "versionName": "2.121.1",
+    "versionCode": 2019116753,
+    "archive_name": "Free Fire MAX_2.121.1.apks"
+  },
+  "alpha_reconstruction": {
+    "shader": "Unlit/TransparentAlphaSeperate",
+    "shader_source": "sharedassets0.assets pathID 14",
+    "fragment_color": "RGB = texture(_MainTex).xyz; A = texture(_AlphaTex).x",
+    "resized": false,
+    "redrawn": false,
+    "generated": false
+  },
+  "sprites": [
+    {
+      "name": "FF_UI_Badge_GM",
+      "file": "FF_UI_Badge_GM.png",
+      "width": 41,
+      "height": 47,
+      "mode": "RGBA",
+      "sha256": "d12e037c0c0f963ad933637fdb7ad9380151beb784ae06ebeddea4b2704cd9ac",
+      "rgba_pixel_sha256": "18387c6a863b570b8616ef5d93d1d5ba900cd12d4fb3a253cce7227e0451a3e8",
+      "bytes": 3115,
+      "atlas_rectangle": {
+        "x": 119,
+        "y": 1,
+        "width": 41,
+        "height": 47,
+        "origin": "top-left"
+      },
+      "atlas_dimensions": [
+        256,
+        256
+      ],
+      "atlas_object_path_id": 3,
+      "serialized_extra_fields_after_rect": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        4,
+        3,
+        0
+      ],
+      "texture_format": {
+        "id": 51,
+        "name": "ASTC_4x4"
+      },
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_pixels": 429,
+      "opaque_pixels": 1107,
+      "source_assets": {
+        "e7a068c072423814b96f868878ba588b": {
+          "entry": "assets/bin/Data/e7a068c072423814b96f868878ba588b",
+          "sha256": "7deb8784a64cad00fee8163495bb5748362ce65f5847dc2e1b81e77256942ba9",
+          "bytes": 5472
+        },
+        "115a394e6c3a25c499f648a67b9759b3": {
+          "entry": "assets/bin/Data/115a394e6c3a25c499f648a67b9759b3",
+          "sha256": "ad46d9b3deaf9f59a5be9b76b8efe1b5442b77eeaa7c4b6d4d6b3e4d2c5091a9",
+          "bytes": 4360
+        },
+        "9fc3de68cd488d5488149304515380d0": {
+          "entry": "assets/bin/Data/9fc3de68cd488d5488149304515380d0",
+          "sha256": "1240c711a656d9d29a3b17aa76b3c8f33923a5f413730e290f5db0049ecb5188",
+          "bytes": 20592
+        },
+        "b1685fb83cb793b48b49a28313a1ed41": {
+          "entry": "assets/bin/Data/b1685fb83cb793b48b49a28313a1ed41",
+          "sha256": "9ab703d1b978f70a95bb4795acd743d4de4916f4768a911f725371f2997ac498",
+          "bytes": 20592
+        }
+      }
+    },
+    {
+      "name": "FF_ingame_hud_Badge_GM",
+      "file": "FF_ingame_hud_Badge_GM.png",
+      "width": 26,
+      "height": 29,
+      "mode": "RGBA",
+      "sha256": "e8cd3eb959a99d81f2136b8c6dd2bd60ded5641e7cbfa74280da67eeae430048",
+      "rgba_pixel_sha256": "4730d51e3d3ef7d2bb43d6cffa506fd5871e7df7b2b0d6c9c89539ff9c0302ea",
+      "bytes": 1563,
+      "atlas_rectangle": {
+        "x": 218,
+        "y": 1,
+        "width": 26,
+        "height": 29,
+        "origin": "top-left"
+      },
+      "atlas_dimensions": [
+        256,
+        256
+      ],
+      "atlas_object_path_id": 3,
+      "serialized_extra_fields_after_rect": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "texture_format": {
+        "id": 51,
+        "name": "ASTC_4x4"
+      },
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_pixels": 119,
+      "opaque_pixels": 379,
+      "source_assets": {
+        "614d5f0d638ac6c43a1b8edba1745ea7": {
+          "entry": "assets/bin/Data/614d5f0d638ac6c43a1b8edba1745ea7",
+          "sha256": "b6d3599cb8aab6f170cddd8610258109086aaa026bb5989c1efb850baa1d370d",
+          "bytes": 6808
+        },
+        "40aa85e1632e8ff4b9c6a65d8fce1ba2": {
+          "entry": "assets/bin/Data/40aa85e1632e8ff4b9c6a65d8fce1ba2",
+          "sha256": "8890517523b8efc36c6a6cd76dc4cbc023b998e59f925fbdba2a41988a98ec14",
+          "bytes": 4368
+        },
+        "b09752f6d8ca1094888a8f6c1037870b": {
+          "entry": "assets/bin/Data/b09752f6d8ca1094888a8f6c1037870b",
+          "sha256": "52da38604014f0ef03305eacd5192d75226848cd34fa5baaed4a9ffdc5d37968",
+          "bytes": 20600
+        },
+        "421201c33a23c1d4a8d539df54b6f749": {
+          "entry": "assets/bin/Data/421201c33a23c1d4a8d539df54b6f749",
+          "sha256": "4809f9f00bb548769f7742be7919afe1203af7566e645cecd49c18f59d1d2443",
+          "bytes": 20600
+        }
+      }
+    }
+  ],
+  "integration": {
+    "status": "source-assets-only",
+    "active_resource_version": "1.56.9",
+    "registered_in_runtime_manifest": false,
+    "client_1_56_1_gm_badge_activated": false,
+    "apk_modified": false,
+    "native_gm_role": 1,
+    "reason": "The traced 1.56.1 badge predicate accepts roles 2, 64 and 256, but rejects GM role 1. PNG or atlas registration alone does not change that predicate."
+  }
+}
