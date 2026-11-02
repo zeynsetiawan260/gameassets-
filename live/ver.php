@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "is_server_open": true,
+  "is_server_open": false,
   "is_firewall_open": false,
   "need_track_hotupdate": false,
-  "min_hint_size": 0.0,
+  "min_hint_size": 0,
   "billboard_cdn_url": "https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/idnbgiuabA101.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/idnbgiuabA102.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/idnbgiuabA103.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/idnbgiuabA104.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/idnbgiuabA105.ff_extend",
   "billboard_msg": "",
   "patchnote_url": "https://cdn.wildflamestudio.com/common/web_event/aswqooiwd/VOYxMilV.html?lang=ind",
@@ -19,12 +19,12 @@
   "abhotupdate_cdn_url": "https://raw.githubusercontent.com/zeynsetiawan260/gameassets-/main/assets/",
   "server_url": "https://core.chronoprojects.com/login/",
   "is_review_server": false,
-  "appstore_url": "",
+  "appstore_url": "https://huggingface.co/datasets/ekal1337/KIPAS_CLIENTS/resolve/main/KIPAS_ANDROID.apk?download=true",
   "force_to_restart_app": false,
   "country_code": "ID",
   "gdpr_version": 0,
   "client_ip": "127.0.0.1",
-  "maintenance_announcement": "",
+  "maintenance_announcement": "This APK is no longer supported. Install the latest CHRONO APK to sign in.",
   "maintenance_region": "",
   "need_check_ip_list": [],
   "network_log_server": "",
@@ -33,5 +33,5 @@
   "img_cdn_url": "https://dl.aw.freefiremobile.com/common/",
   "core_url": "https://core.chronoprojects.com/core/",
   "core_ip_list": [],
-  "is_update_btn_show": false
+  "is_update_btn_show": true
 }
