@@ -13,7 +13,7 @@
   "max_web": "",
   "max_video": "",
   "remote_version": "1.56.10",
-  "remote_option_version": "optionallocres:156102|optionalclothres:156401|optionalpetres:156401",
+  "remote_option_version": "optionallocres:156102|optionalclothres:156401|optionalpetres:156401|optionalmapres:156401",
   "cdn_url": "https://raw.githubusercontent.com/zeynsetiawan260/gameassets-/main/assets/",
   "backup_cdn_url": "https://core.chronoprojects.com/cdn/",
   "abhotupdate_cdn_url": "https://raw.githubusercontent.com/zeynsetiawan260/gameassets-/main/assets/",
